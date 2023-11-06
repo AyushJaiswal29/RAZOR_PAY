@@ -1,1 +1,2 @@
 # RAZOR_PAY
+This repository houses a web development project centered around integrating Razorpay's payment gateway within an e-commerce platform. The project showcases the implementation of Razorpay's SDKs and APIs to enable smooth, reliable, and user-friendly payment experiences. The web application is built using modern web technologies, including HTML, CSS, JavaScript. Contributions, issues, and feedback are welcome as we strive to optimize and enhance the payment experience for online businesses.
